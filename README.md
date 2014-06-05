@@ -2,6 +2,7 @@ Identifier For Vendor Plugin
 =============
 
 This plugin makes possible to get the iOS Identifier For Vendor code on phonegap apps
+https://developer.apple.com/library/ios/documentation/uikit/reference/UIDevice_Class/Reference/UIDevice.html#//apple_ref/occ/instp/UIDevice/identifierForVendor
 
 On iOS 5 the error callback is called because Identifier For Vendor isn't supported on iOS 5
 
