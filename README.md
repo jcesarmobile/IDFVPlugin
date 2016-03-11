@@ -19,9 +19,11 @@ Installation:
 Usage:
 =====
 
-```window.IDFVPlugin.getIdentifier(function(result){
+```
+window.IDFVPlugin.getIdentifier(function(result){
                                       alert(result);
                                     },
                                     function(error){
                                       alert(error);
-                                    });```
+                                    });
+```
