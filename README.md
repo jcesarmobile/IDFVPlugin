@@ -14,8 +14,7 @@ On iOS 5 the error callback is called because Identifier For Vendor isn't suppor
 Installation:
 ============
 
-`cordova plugin add https://github.com/jcesarmobile/IDFVPlugin.git`
-
+```cordova plugin add https://github.com/jcesarmobile/IDFVPlugin.git```
 
 Usage:
 =====
